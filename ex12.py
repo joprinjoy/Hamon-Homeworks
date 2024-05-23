@@ -1,3 +1,5 @@
+#prompting a maessage while taking input
+
 age = input("How old are you ? ")
 height = input("How much tall are you ? ")
 weight = input("How much fo you weight? ")
